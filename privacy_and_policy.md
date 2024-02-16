@@ -55,7 +55,7 @@ We gather data on how you interact with FloraExplore, such as the features you u
    - You can manage your account settings and preferences within the FloraExplore app.
 
 2. **Data Access and Deletion:**
-   - You can request access to your personal information or its deletion by contacting us at [usamakashif1@email.com].
+   - You can request access to your personal information or its deletion by contacting us at [contact@digitallyserved.com].
 
 ## Children's Privacy
 
@@ -67,7 +67,7 @@ We may update this Privacy Policy periodically. We will notify you of any change
 
 ## Contact Us
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at [usamakashif1t@email.com].
+If you have any questions or concerns regarding this Privacy Policy, please contact us at [contact@digitallyserved.com].
 
 Thank you for choosing FloraExplore!
 
